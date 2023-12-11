@@ -1,0 +1,478 @@
+timestamp;instituicao;dominio_FML;localidade_FML;dominio_INF;localidade_INF;local;entidade;codigo;descricao;mail;t_maxEspera;em_espera_prioritario;em_espera_normal;total;num_dias
+20231211122716;IRN;AVEIRO;AVEIRO;Aveiro;Aveiro;CRC Aveiro;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;331;0;1;1;1
+20231211122716;IRN;AVEIRO;ESTARREJA;Aveiro;Estarreja;ER Estarreja;REGISTOS;B;Cartão de Cidadão - Levantamento;--;3442;0;4;4;1
+20231211122716;IRN;AVEIRO;ESTARREJA;Aveiro;Estarreja;ER Estarreja;REGISTOS;C;Cartão de Cidadão - Outros;--;4117;0;2;2;1
+20231211122716;IRN;AVEIRO;ESTARREJA;Aveiro;Estarreja;ER Estarreja;REGISTOS;E;Passaporte - Levantamento / Inf.;--;4753;0;1;1;1
+20231211122716;IRN;AVEIRO;ESTARREJA;Aveiro;Estarreja;ER Estarreja;REGISTOS;L;Nacionalidade - Profissionais;--;910;0;1;1;1
+20231211122716;IRN;AVEIRO;ESTARREJA;Aveiro;Estarreja;ER Estarreja;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;4273;0;1;1;1
+20231211122716;IRN;AVEIRO;ESTARREJA;Aveiro;Estarreja;ER Estarreja;REGISTOS;R;Registo veículos - Pedido;--;403;0;2;2;1
+20231211122716;IRN;AVEIRO;ESTARREJA;Aveiro;Estarreja;ER Estarreja;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;4306;0;1;1;1
+20231211122716;IRN;AVEIRO;MEALHADA;Aveiro;Mealhada;Registo Mealhada;REGISTOS;G;Registo Civil - Nascimento;--;1706;0;1;1;1
+20231211122716;IRN;AVEIRO;SANTA MARIA DA FEIRA;Aveiro;Santa Maria da Feira;ER-Santa Maria da Feira;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1217;0;1;1;1
+20231211122716;IRN;AVEIRO;SANTA MARIA DA FEIRA;Aveiro;Santa Maria da Feira;ER-Santa Maria da Feira;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;3576;0;2;2;1
+20231211122716;IRN;AVEIRO;SANTA MARIA DA FEIRA;Aveiro;Santa Maria da Feira;ER-Santa Maria da Feira;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;5755;0;11;11;1
+20231211122716;IRN;AVEIRO;SANTA MARIA DA FEIRA;Aveiro;Santa Maria da Feira;ER-Santa Maria da Feira;REGISTOS;N;Registo Predial - Pedido;--;4838;0;3;3;1
+20231211122716;IRN;AVEIRO;SANTA MARIA DA FEIRA;Aveiro;Santa Maria da Feira;ER-Santa Maria da Feira;REGISTOS;T;Registo Comercial - Certidões / Inf.;--;5762;0;2;2;1
+20231211122716;IRN;AVEIRO;SANTA MARIA DA FEIRA;Aveiro;Santa Maria da Feira;ER-Santa Maria da Feira;REGISTOS;U;Registo Comercial - Pedido;--;1327;0;1;1;1
+20231211122716;IRN;AVEIRO;VAGOS;Aveiro;Vagos;CRCPCom Vagos;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1250;0;2;2;1
+20231211122716;IRN;AVEIRO;VAGOS;Aveiro;Vagos;CRCPCom Vagos;REGISTOS;G;Registo Civil - Nascimento;--;2717;0;1;1;1
+20231211122716;IRN;AVEIRO;VAGOS;Aveiro;Vagos;CRCPCom Vagos;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;288;0;1;1;1
+20231211122716;IRN;BRAGA;BARCELOS;Braga;Barcelos;ER Barcelos;REGISTOS;B;Cartão de Cidadão - Levantamento;--;748;0;3;3;1
+20231211122716;IRN;BRAGA;BARCELOS;Braga;Barcelos;ER Barcelos;REGISTOS;N;Registo Predial - Pedido;--;241;0;1;1;1
+20231211122716;IRN;BRAGA;BARCELOS;Braga;Barcelos;ER Barcelos;REGISTOS;R;Registo veículos - Pedido;--;1452;0;2;2;1
+20231211122716;IRN;BRAGA;BARCELOS;Braga;Barcelos;ER Barcelos;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;5727;0;1;1;1
+20231211122716;IRN;BRAGA;BRAGA;Braga;Braga;CRC Braga;REGISTOS;F;Registo Civil - Certidões / Inf.;--;769;0;2;2;1
+20231211122716;IRN;BRAGA;BRAGA;Braga;Braga;CRC Braga;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;795;0;2;2;1
+20231211122716;IRN;BRAGA;BRAGA;Braga;Braga;CRC Braga;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;191;0;3;3;1
+20231211122716;IRN;BRAGA;BRAGA;Braga;Braga;CRC Braga;REGISTOS;L;Nacionalidade - Profissionais;--;495;0;1;1;1
+20231211122716;IRN;BRAGA;FAFE;Braga;Fafe;CRC Fafe;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;3249;0;2;2;1
+20231211122716;IRN;BRAGA;FAFE;Braga;Fafe;CRC Fafe;REGISTOS;B;Cartão de Cidadão - Levantamento;--;3308;0;2;2;1
+20231211122716;IRN;BRAGA;FAFE;Braga;Fafe;CRC Fafe;REGISTOS;C;Cartão de Cidadão - Outros;--;2682;0;2;2;1
+20231211122716;IRN;BRAGA;FAFE;Braga;Fafe;CRC Fafe;REGISTOS;F;Registo Civil - Certidões / Inf.;--;2291;0;1;1;1
+20231211122716;IRN;BRAGA;FAFE;Braga;Fafe;CRC Fafe;REGISTOS;G;Registo Civil - Nascimento;--;2635;0;1;1;1
+20231211122716;IRN;BRAGA;FAFE;Braga;Fafe;CRC Fafe;REGISTOS;S;Carta de Condução;--;3238;0;1;1;1
+20231211122716;IRN;BRAGA;GUIMARÃES;Braga;Guimarães;ER Guimarães;REGISTOS;B;Cartão de Cidadão - Levantamento;--;636;0;2;2;1
+20231211122716;IRN;BRAGA;GUIMARÃES;Braga;Guimarães;ER Guimarães;REGISTOS;C;Cartão de Cidadão - Outros;--;2376;0;3;3;1
+20231211122716;IRN;BRAGA;GUIMARÃES;Braga;Guimarães;ER Guimarães;REGISTOS;D;Passaporte - Pedido;--;617;0;2;2;1
+20231211122716;IRN;BRAGA;GUIMARÃES;Braga;Guimarães;ER Guimarães;REGISTOS;F;Registo Civil - Certidões / Inf.;--;5;0;1;1;1
+20231211122716;IRN;BRAGA;GUIMARÃES;Braga;Guimarães;ER Guimarães;REGISTOS;Y;Marcações;--;2218;0;1;1;1
+20231211122716;IRN;BRAGANÇA;BRAGANÇA;Bragança;Bragança;ER Bragança;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;810;0;2;2;1
+20231211122716;IRN;BRAGANÇA;BRAGANÇA;Bragança;Bragança;ER Bragança;REGISTOS;B;Cartão de Cidadão - Levantamento;--;280;0;1;1;1
+20231211122716;IRN;CASTELO BRANCO;CASTELO BRANCO;Castelo Branco;Castelo Branco;ER Castelo Branco;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;13338;0;1;1;1
+20231211122716;IRN;CASTELO BRANCO;FUNDÃO;Castelo Branco;Fundão;CRCPComAut Fundão;REGISTOS;E;Passaporte - Levantamento / Inf.;--;493;0;1;1;1
+20231211122716;IRN;CASTELO BRANCO;SERTÃ;Castelo Branco;Sertã;CRCPComAut Sertã;REGISTOS;C;Cartão de Cidadão - Outros;--;2472;0;2;2;1
+20231211122716;IRN;CASTELO BRANCO;SERTÃ;Castelo Branco;Sertã;CRCPComAut Sertã;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1077;0;1;1;1
+20231211122716;IRN;COIMBRA;COIMBRA;Coimbra;Coimbra;2ª CRP Coimbra;REGISTOS;O;Casa Pronta;--;10391;0;1;1;1
+20231211122716;IRN;COIMBRA;COIMBRA;Coimbra;Coimbra;CRC Coimbra;REGISTOS;B;Cartão de Cidadão - Levantamento;--;728;0;1;1;1
+20231211122716;IRN;COIMBRA;COIMBRA;Coimbra;Coimbra;CRC Coimbra;REGISTOS;F;Registo Civil - Certidões / Inf.;--;805;0;1;1;1
+20231211122716;IRN;COIMBRA;COIMBRA;Coimbra;Coimbra;CRC Coimbra;REGISTOS;G;Registo Civil - Nascimento;--;12166;0;4;4;1
+20231211122716;IRN;COIMBRA;COIMBRA;Coimbra;Coimbra;CRC Coimbra;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;1217;0;1;1;1
+20231211122716;IRN;COIMBRA;COIMBRA;Coimbra;Coimbra;CRC Coimbra;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;12231;0;6;6;1
+20231211122716;IRN;COIMBRA;COIMBRA;Coimbra;Coimbra;CRC Coimbra;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;1457;0;3;3;1
+20231211122716;IRN;COIMBRA;CONDEIXA-A-NOVA;Coimbra;Condeixa-a-Nova;CRCPCom Condeixa-a-Nova;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;3229;0;2;2;1
+20231211122716;IRN;COIMBRA;CONDEIXA-A-NOVA;Coimbra;Condeixa-a-Nova;CRCPCom Condeixa-a-Nova;REGISTOS;F;Registo Civil - Certidões / Inf.;--;3079;0;2;2;1
+20231211122716;IRN;COIMBRA;CONDEIXA-A-NOVA;Coimbra;Condeixa-a-Nova;CRCPCom Condeixa-a-Nova;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;2026;0;1;1;1
+20231211122716;IRN;COIMBRA;CONDEIXA-A-NOVA;Coimbra;Condeixa-a-Nova;CRCPCom Condeixa-a-Nova;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;1568;0;1;1;1
+20231211122716;IRN;COIMBRA;CONDEIXA-A-NOVA;Coimbra;Condeixa-a-Nova;CRCPCom Condeixa-a-Nova;REGISTOS;N;Registo Predial - Pedido;--;3104;0;2;2;1
+20231211122716;IRN;COIMBRA;CONDEIXA-A-NOVA;Coimbra;Condeixa-a-Nova;CRCPCom Condeixa-a-Nova;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;1580;0;1;1;1
+20231211122716;IRN;COIMBRA;TABUA;Coimbra;Tábua;CRCPCom Tábua;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;5145;0;3;3;1
+20231211122716;IRN;COIMBRA;TABUA;Coimbra;Tábua;CRCPCom Tábua;REGISTOS;B;Cartão de Cidadão - Levantamento;--;2228;0;1;1;1
+20231211122716;IRN;COIMBRA;TABUA;Coimbra;Tábua;CRCPCom Tábua;REGISTOS;C;Cartão de Cidadão - Outros;--;11561;0;2;2;1
+20231211122716;IRN;COIMBRA;TABUA;Coimbra;Tábua;CRCPCom Tábua;REGISTOS;G;Registo Civil - Nascimento;--;2243;0;1;1;1
+20231211122716;IRN;COIMBRA;TABUA;Coimbra;Tábua;CRCPCom Tábua;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;3016;1;0;1;1
+20231211122716;IRN;COIMBRA;TABUA;Coimbra;Tábua;CRCPCom Tábua;REGISTOS;R;Registo veículos - Pedido;--;2060;0;1;1;1
+20231211122716;IRN;ÉVORA;ÉVORA;Évora;Évora;ER Évora;REGISTOS;E;Passaporte - Levantamento / Inf.;--;1009;0;1;1;1
+20231211122716;IRN;ÉVORA;ÉVORA;Évora;Évora;ER Évora;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;115;0;1;1;1
+20231211122716;IRN;ÉVORA;ÉVORA;Évora;Évora;ER Évora;REGISTOS;N;Registo Predial - Pedido;--;735;0;1;1;1
+20231211122716;IRN;ÉVORA;ÉVORA;Évora;Évora;ER Évora;REGISTOS;Y;Marcações;--;1267;0;1;1;1
+20231211122716;IRN;ÉVORA;MONTEMOR-O-NOVO;Évora;Montemor-O-Novo;ER Montemor-O-Novo;REGISTOS;D;Passaporte - Pedido;--;10875;0;1;1;1
+20231211122716;IRN;FARO;ALBUFEIRA;Faro;Albufeira;CRC Albufeira;REGISTOS;C;Cartão de Cidadão - Outros;--;399;0;1;1;1
+20231211122716;IRN;FARO;ALBUFEIRA;Faro;Albufeira;CRC Albufeira;REGISTOS;E;Passaporte - Levantamento / Inf.;--;98;0;1;1;1
+20231211122716;IRN;FARO;ALBUFEIRA;Faro;Albufeira;CRPCom Albufeira;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;1047;0;1;1;1
+20231211122716;IRN;FARO;ALBUFEIRA;Faro;Albufeira;CRPCom Albufeira;REGISTOS;R;Registo veículos - Pedido;--;644;0;1;1;1
+20231211122716;IRN;FARO;ALBUFEIRA;Faro;Albufeira;CRPCom Albufeira;REGISTOS;U;Registo Comercial - Pedido;--;1920;0;1;1;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;B;Cartão de Cidadão - Levantamento;--;3074;0;2;2;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;F;Registo Civil - Certidões / Inf.;--;3820;0;6;6;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;G;Registo Civil - Nascimento;--;5961;0;1;1;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;1892;0;2;2;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;6017;0;1;1;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;4714;0;6;6;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;L;Nacionalidade - Profissionais;--;1029;0;1;1;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;2065;0;2;2;1
+20231211122716;IRN;FARO;FARO;Faro;Faro;ER Faro;REGISTOS;N;Registo Predial - Pedido;--;2767;0;1;1;1
+20231211122716;IRN;FARO;LAGOS;Faro;Lagos;CRC Lagos;REGISTOS;Y;Marcações;--;7947;0;4;4;1
+20231211122716;IRN;FARO;LAGOS;Faro;Lagos;CRPCom Lagos;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;9398;0;7;7;1
+20231211122716;IRN;FARO;LAGOS;Faro;Lagos;CRPCom Lagos;REGISTOS;R;Registo veículos - Pedido;--;1983;0;2;2;1
+20231211122716;IRN;FARO;LAGOS;Faro;Lagos;CRPCom Lagos;REGISTOS;T;Registo Comercial - Certidões / Inf.;--;9415;0;3;3;1
+20231211122716;IRN;FARO;LOULÉ;Faro;Loulé;CRCPcom loulé;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;7371;1;11;12;1
+20231211122716;IRN;FARO;LOULÉ;Faro;Loulé;CRCPcom loulé;REGISTOS;B;Cartão de Cidadão - Levantamento;--;6679;0;4;4;1
+20231211122716;IRN;FARO;LOULÉ;Faro;Loulé;CRCPcom loulé;REGISTOS;D;Passaporte - Pedido;--;570;0;1;1;1
+20231211122716;IRN;FARO;LOULÉ;Faro;Loulé;CRCPcom loulé;REGISTOS;N;Registo Predial - Pedido;--;1108;0;1;1;1
+20231211122716;IRN;FARO;LOULÉ;Faro;Loulé;CRCPcom loulé;REGISTOS;R;Registo veículos - Pedido;--;6808;0;3;3;1
+20231211122716;IRN;FARO;OLHÃO;Faro;Olhão;CRC Olhão;REGISTOS;E;Passaporte - Levantamento / Inf.;--;249;0;1;1;1
+20231211122716;IRN;FARO;OLHÃO;Faro;Olhão;CRPCom Olhão;REGISTOS;T;Registo Comercial - Certidões / Inf.;--;66;0;1;1;1
+20231211122716;IRN;FARO;SILVES;Faro;Silves;ER Silves;REGISTOS;C;Cartão de Cidadão - Outros;--;342;0;2;2;1
+20231211122716;IRN;FARO;SILVES;Faro;Silves;ER Silves;REGISTOS;D;Passaporte - Pedido;--;2291;0;1;1;1
+20231211122716;IRN;FARO;SILVES;Faro;Silves;ER Silves;REGISTOS;E;Passaporte - Levantamento / Inf.;--;2262;0;1;1;1
+20231211122716;IRN;FARO;SILVES;Faro;Silves;ER Silves;REGISTOS;F;Registo Civil - Certidões / Inf.;--;3791;0;2;2;1
+20231211122716;IRN;FARO;SILVES;Faro;Silves;ER Silves;REGISTOS;G;Registo Civil - Nascimento;--;523;0;1;1;1
+20231211122716;IRN;FARO;VILA DO BISPO;Faro;Vila do Bispo;CRCPCom Vila do Bispo;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;5407;0;1;1;1
+20231211122716;IRN;GUARDA;GOUVEIA;Guarda;Gouveia;ER Gouveia;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;0;0;1;1;1
+20231211122716;IRN;LEIRIA;ALCOBAÇA;Leiria;Alcobaça;ER Alcobaça;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;212;0;1;1;1
+20231211122716;IRN;LEIRIA;ALCOBAÇA;Leiria;Alcobaça;ER Alcobaça;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;845;0;1;1;1
+20231211122716;IRN;LEIRIA;ALCOBAÇA;Leiria;Alcobaça;ER Alcobaça;REGISTOS;R;Registo veículos - Pedido;--;1665;0;3;3;1
+20231211122716;IRN;LEIRIA;CALDAS DA RAINHA;Leiria;Caldas da Rainha;CRC Caldas da Rainha;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1557;0;2;2;1
+20231211122716;IRN;LEIRIA;CALDAS DA RAINHA;Leiria;Caldas da Rainha;CRC Caldas da Rainha;REGISTOS;B;Cartão de Cidadão - Levantamento;--;1938;0;1;1;1
+20231211122716;IRN;LEIRIA;CALDAS DA RAINHA;Leiria;Caldas da Rainha;CRC Caldas da Rainha;REGISTOS;C;Cartão de Cidadão - Outros;--;1670;0;1;1;1
+20231211122716;IRN;LEIRIA;CALDAS DA RAINHA;Leiria;Caldas da Rainha;CRC Caldas da Rainha;REGISTOS;E;Passaporte - Levantamento / Inf.;--;3030;0;1;1;1
+20231211122716;IRN;LEIRIA;CALDAS DA RAINHA;Leiria;Caldas da Rainha;CRC Caldas da Rainha;REGISTOS;G;Registo Civil - Nascimento;--;497;1;0;1;1
+20231211122716;IRN;LEIRIA;CALDAS DA RAINHA;Leiria;Caldas da Rainha;CRC Caldas da Rainha;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;3985;0;2;2;1
+20231211122716;IRN;LEIRIA;CALDAS DA RAINHA;Leiria;Caldas da Rainha;CRC Caldas da Rainha;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;1724;0;1;1;1
+20231211122716;IRN;LEIRIA;FIGUEIRO DOS VINHOS;Leiria;Figueiró dos Vinhos;CRCPCom Figueiró dos Vinhos;REGISTOS;C;Cartão de Cidadão - Outros;--;6799;0;2;2;1
+20231211122716;IRN;LEIRIA;FIGUEIRO DOS VINHOS;Leiria;Figueiró dos Vinhos;CRCPCom Figueiró dos Vinhos;REGISTOS;D;Passaporte - Pedido;--;4753;0;1;1;1
+20231211122716;IRN;LEIRIA;LEIRIA;Leiria;Leiria;CRC Leiria;REGISTOS;F;Registo Civil - Certidões / Inf.;--;12365;0;1;1;1
+20231211122716;IRN;LEIRIA;LEIRIA;Leiria;Leiria;CRC Leiria;REGISTOS;G;Registo Civil - Nascimento;--;10962;2;3;5;1
+20231211122716;IRN;LEIRIA;LEIRIA;Leiria;Leiria;CRC Leiria;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;9513;1;4;5;1
+20231211122716;IRN;LEIRIA;LEIRIA;Leiria;Leiria;CRC Leiria;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;10265;0;1;1;1
+20231211122716;IRN;LEIRIA;LEIRIA;Leiria;Leiria;CRC Leiria;REGISTOS;L;Nacionalidade - Profissionais;--;11889;1;7;8;1
+20231211122716;IRN;LEIRIA;LEIRIA;Leiria;Leiria;CRC Leiria;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;10807;0;7;7;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;4514;1;8;9;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;B;Cartão de Cidadão - Levantamento;--;3284;0;3;3;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;C;Cartão de Cidadão - Outros;--;3035;0;2;2;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;D;Passaporte - Pedido;--;5160;0;2;2;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;E;Passaporte - Levantamento / Inf.;--;1540;0;1;1;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;F;Registo Civil - Certidões / Inf.;--;4408;0;2;2;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;G;Registo Civil - Nascimento;--;3887;0;1;1;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;945;0;1;1;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;1300;0;1;1;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;N;Registo Predial - Pedido;--;4559;0;2;2;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;4626;0;4;4;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;R;Registo veículos - Pedido;--;4094;0;3;3;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;U;Registo Comercial - Pedido;--;4121;0;1;1;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;Y;Marcações;--;8448;0;4;4;1
+20231211122716;IRN;LEIRIA;MARINHA GRANDE;Leiria;Marinha Grande;Registos Marinha Grande;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;4287;0;3;3;1
+20231211122716;IRN;LEIRIA;POMBAL;Leiria;Pombal;ER Pombal;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;2699;0;4;4;1
+20231211122716;IRN;LEIRIA;POMBAL;Leiria;Pombal;ER Pombal;REGISTOS;N;Registo Predial - Pedido;--;2706;0;2;2;1
+20231211122716;IRN;LEIRIA;POMBAL;Leiria;Pombal;ER Pombal;REGISTOS;T;Registo Comercial - Certidões / Inf.;--;2657;0;2;2;1
+20231211122716;IRN;LEIRIA;POMBAL;Leiria;Pombal;ER Pombal;REGISTOS;Y;Marcações;--;1872;0;1;1;1
+20231211122716;IRN;LEIRIA;POMBAL;Leiria;Pombal;ER Pombal;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;215;0;1;1;1
+20231211122716;IRN;LISBOA;ALENQUER;Lisboa;Alenquer;CRCPCom Alenquer;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;4063;0;3;3;1
+20231211122716;IRN;LISBOA;ALENQUER;Lisboa;Alenquer;CRCPCom Alenquer;REGISTOS;B;Cartão de Cidadão - Levantamento;--;6;1;0;1;1
+20231211122716;IRN;LISBOA;ALENQUER;Lisboa;Alenquer;CRCPCom Alenquer;REGISTOS;D;Passaporte - Pedido;--;3502;0;3;3;1
+20231211122716;IRN;LISBOA;ALENQUER;Lisboa;Alenquer;CRCPCom Alenquer;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;182;0;1;1;1
+20231211122716;IRN;LISBOA;ALENQUER;Lisboa;Alenquer;CRCPCom Alenquer;REGISTOS;N;Registo Predial - Pedido;--;216;0;6;6;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;5864;0;6;6;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;B;Cartão de Cidadão - Levantamento;--;6244;0;10;10;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;C;Cartão de Cidadão - Outros;--;6183;0;10;10;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;D;Passaporte - Pedido;--;4939;0;3;3;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;E;Passaporte - Levantamento / Inf.;--;5473;0;4;4;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;F;Registo Civil - Certidões / Inf.;--;12140;0;5;5;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;12182;0;5;5;1
+20231211122716;IRN;LISBOA;AMADORA;Lisboa;Amadora;Registos Amadora;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;12146;0;6;6;1
+20231211122716;IRN;LISBOA;ARRUDA DOS VINHOS;Lisboa;Arruda dos Vinhos;CRCPCom Arruda dos Vinhos;REGISTOS;E;Passaporte - Levantamento / Inf.;--;411;0;1;1;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;1ª CRP Cascais;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;4927;0;4;4;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;1ª CRP Cascais;REGISTOS;N;Registo Predial - Pedido;--;4193;0;5;5;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;1ª CRP Cascais;REGISTOS;Y;Marcações;--;5595;0;1;1;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;1ª CRP Cascais;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;3230;0;1;1;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;CRC Cascais;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;8674;0;13;13;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;CRC Cascais;REGISTOS;C;Cartão de Cidadão - Outros;--;588;2;0;2;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;CRC Cascais;REGISTOS;E;Passaporte - Levantamento / Inf.;--;495;1;2;3;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;CRC Cascais;REGISTOS;F;Registo Civil - Certidões / Inf.;--;5134;0;2;2;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;CRC Cascais;REGISTOS;Y;Marcações;--;1051;0;3;3;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;CRCom Cascais;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;1075;0;1;1;1
+20231211122716;IRN;LISBOA;CASCAIS;Lisboa;Cascais;CRCom Cascais;REGISTOS;R;Registo veículos - Pedido;--;1376;0;4;4;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;CRC Lisboa;REGISTOS;B;Cartão de Cidadão - Levantamento;--;148;0;1;1;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;CRC Lisboa;REGISTOS;G;Registo Civil - Nascimento;--;5383;6;0;6;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;CRC Lisboa;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;7130;0;9;9;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;CRCom Lisboa;REGISTOS;U;Registo Comercial - Pedido;--;158;0;1;1;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;ER Lisboa (Benfica);REGISTOS;F;Registo Civil - Certidões / Inf.;--;1602;0;1;1;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;ER Lisboa (Benfica);REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;2538;0;8;8;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;ER Lisboa (Benfica);REGISTOS;M;Registo Predial - Certidões / Inf. ;--;2255;0;2;2;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;ER Lisboa (Benfica);REGISTOS;N;Registo Predial - Pedido;--;400;0;1;1;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;ER Lisboa (Benfica);REGISTOS;R;Registo veículos - Pedido;--;1936;0;4;4;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;ER Lisboa (Benfica);REGISTOS;U;Registo Comercial - Pedido;--;1708;0;2;2;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;Registo Nacional de Pessoas Coletivas;REGISTOS;W;Certificados de Admissibilidade / Propriedade Industrial;--;125;0;1;1;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa;Registos Centrais de Lisboa;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;8951;0;22;22;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;DIC Lisboa (Expo);REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1524;0;5;5;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;DIC Lisboa (Expo);REGISTOS;B;Cartão de Cidadão - Levantamento;--;683;0;4;4;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;DIC Lisboa (Expo);REGISTOS;D;Passaporte - Pedido;--;1950;0;5;5;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;F;Registo Civil - Certidões / Inf.;--;6020;0;8;8;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;G;Registo Civil - Nascimento;--;9238;0;1;1;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;9279;0;3;3;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;11732;0;3;3;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;Q;Registo veículos - Certidões / Inf.;--;1618;0;6;6;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;R;Registo veículos - Pedido;--;1969;0;12;12;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;U;Registo Comercial - Pedido;--;8517;0;1;1;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;V;Empresa na Hora / Marca / Associação / Cooperativa / Sucursal na Hora;--;9445;0;2;2;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;Y;Marcações;--;630;0;3;3;1
+20231211122716;IRN;LISBOA;LISBOA;Lisboa;Lisboa - Campus da Justiça;Espaço Registos Lisboa (Expo);REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;995;0;2;2;1
+20231211122716;IRN;LISBOA;LOURES;Lisboa;Loures;1ª CRPCom Loures;REGISTOS;D;Passaporte - Pedido;--;160;0;1;1;1
+20231211122716;IRN;LISBOA;LOURES;Lisboa;Loures;1ª CRPCom Loures;REGISTOS;N;Registo Predial - Pedido;--;1915;0;1;1;1
+20231211122716;IRN;LISBOA;LOURES;Lisboa;Loures;1ª CRPCom Loures;REGISTOS;R;Registo veículos - Pedido;--;1728;0;2;2;1
+20231211122716;IRN;LISBOA;LOURINHÃ;Lisboa;Lourinhã;CRCPComAut Lourinhã;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;7988;0;1;1;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRC Mafra;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;479;0;1;1;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRC Mafra;REGISTOS;B;Cartão de Cidadão - Levantamento;--;1526;0;1;1;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRC Mafra;REGISTOS;D;Passaporte - Pedido;--;1501;0;4;4;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRC Mafra;REGISTOS;F;Registo Civil - Certidões / Inf.;--;3806;0;3;3;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRC Mafra;REGISTOS;G;Registo Civil - Nascimento;--;6282;0;1;1;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRC Mafra;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;3823;0;3;3;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRPCom Mafra;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;758;0;1;1;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRPCom Mafra;REGISTOS;R;Registo veículos - Pedido;--;726;0;2;2;1
+20231211122716;IRN;LISBOA;MAFRA;Lisboa;Mafra;CRPCom Mafra;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;993;0;1;1;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;1ª CRP Oeiras;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;3288;0;3;3;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;1ª CRP Oeiras;REGISTOS;N;Registo Predial - Pedido;--;2965;0;3;3;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;2ª CRP Oeiras;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;5107;0;2;2;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;2ª CRP Oeiras;REGISTOS;N;Registo Predial - Pedido;--;168;0;1;1;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;2ª CRP Oeiras;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;3008;0;3;3;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;2ª CRP Oeiras;REGISTOS;R;Registo veículos - Pedido;--;5319;0;10;10;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;CRC Oeiras;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;7734;0;11;11;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;CRC Oeiras;REGISTOS;C;Cartão de Cidadão - Outros;--;432;0;3;3;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;CRC Oeiras;REGISTOS;E;Passaporte - Levantamento / Inf.;--;404;0;1;1;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;CRC Oeiras;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;3126;1;3;4;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;CRC Oeiras;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;3192;0;1;1;1
+20231211122716;IRN;LISBOA;OEIRAS;Lisboa;Oeiras;CRC Oeiras;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;3835;0;1;1;1
+20231211122716;IRN;LISBOA;SINTRA;Lisboa;Sintra;1ª CRP Sintra;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;578;0;2;2;1
+20231211122716;IRN;LISBOA;SINTRA;Lisboa;Sintra;CRC Sintra;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;771;0;1;1;1
+20231211122716;IRN;LISBOA;SINTRA;Lisboa;Sintra;CRC Sintra;REGISTOS;B;Cartão de Cidadão - Levantamento;--;753;0;1;1;1
+20231211122716;IRN;LISBOA;SINTRA;Lisboa;Sintra;CRC Sintra;REGISTOS;F;Registo Civil - Certidões / Inf.;--;250;0;1;1;1
+20231211122716;IRN;LISBOA;SINTRA;Lisboa;Sintra;CRCom Sintra;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;219;0;1;1;1
+20231211122716;IRN;LISBOA;SINTRA;Lisboa;Sintra;CRCom Sintra;REGISTOS;R;Registo veículos - Pedido;--;887;0;1;1;1
+20231211122716;IRN;LISBOA;SINTRA;Lisboa;Sintra;CRCom Sintra;REGISTOS;Y;Marcações;--;863;0;1;1;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;2ª CRP Vila Franca de Xira;REGISTOS;N;Registo Predial - Pedido;--;6667;0;5;5;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;2ª CRP Vila Franca de Xira;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;3939;0;1;1;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;2ª CRP Vila Franca de Xira;REGISTOS;R;Registo veículos - Pedido;--;1830;0;2;2;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;CRC Vila Franca de Xira;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;5082;0;2;2;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;CRC Vila Franca de Xira;REGISTOS;B;Cartão de Cidadão - Levantamento;--;7141;0;4;4;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;CRC Vila Franca de Xira;REGISTOS;C;Cartão de Cidadão - Outros;--;6466;0;4;4;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;CRC Vila Franca de Xira;REGISTOS;D;Passaporte - Pedido;--;5808;0;2;2;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;CRC Vila Franca de Xira;REGISTOS;E;Passaporte - Levantamento / Inf.;--;7014;0;1;1;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;CRC Vila Franca de Xira;REGISTOS;G;Registo Civil - Nascimento;--;1328;1;0;1;1
+20231211122716;IRN;LISBOA;VILA FRANCA DE XIRA;Lisboa;Vila Franca de Xira;CRC Vila Franca de Xira;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;6734;0;1;1;1
+20231211122716;AMA;AVEIRO;AVEIRO;Loja de Cidadão 1G;Aveiro;Loja de Cidadão Aveiro;REGISTOS;C;Cartão de Cidadão - Outros;--;1011;0;1;1;1
+20231211122716;AMA;AVEIRO;AVEIRO;Loja de Cidadão 1G;Aveiro;Loja de Cidadão Aveiro;REGISTOS;D;Passaporte - Pedido;--;1153;0;1;1;1
+20231211122716;AMA;AVEIRO;AVEIRO;Loja de Cidadão 1G;Aveiro;Loja de Cidadão Aveiro;REGISTOS;F;Registo Civil - Certidões / Inf.;--;836;0;1;1;1
+20231211122716;AMA;AVEIRO;AVEIRO;Loja de Cidadão 1G;Aveiro;Loja de Cidadão Aveiro;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;4419;0;2;2;1
+20231211122716;AMA;AVEIRO;AVEIRO;Loja de Cidadão 1G;Aveiro;Loja de Cidadão Aveiro;REGISTOS;R;Registo veículos - Pedido;--;4794;0;10;10;1
+20231211122716;AMA;AVEIRO;AVEIRO;Loja de Cidadão 1G;Aveiro;Loja de Cidadão Aveiro;REGISTOS;Y;Marcações;--;635;0;1;1;1
+20231211122716;AMA;BRAGA;BRAGA;Loja de Cidadão 1G;Braga;Loja de Cidadão Braga;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;776;0;3;3;1
+20231211122716;AMA;BRAGA;BRAGA;Loja de Cidadão 1G;Braga;Loja de Cidadão Braga;REGISTOS;B;Cartão de Cidadão - Levantamento;--;878;0;1;1;1
+20231211122716;AMA;BRAGA;BRAGA;Loja de Cidadão 1G;Braga;Loja de Cidadão Braga;REGISTOS;C;Cartão de Cidadão - Outros;--;957;0;3;3;1
+20231211122716;AMA;BRAGA;BRAGA;Loja de Cidadão 1G;Braga;Loja de Cidadão Braga;REGISTOS;D;Passaporte - Pedido;--;82;0;1;1;1
+20231211122716;AMA;BRAGA;BRAGA;Loja de Cidadão 1G;Braga;Loja de Cidadão Braga;REGISTOS;F;Registo Civil - Certidões / Inf.;--;2196;0;2;2;1
+20231211122716;AMA;BRAGA;BRAGA;Loja de Cidadão 1G;Braga;Loja de Cidadão Braga;REGISTOS;R;Registo veículos - Pedido;--;705;0;2;2;1
+20231211122716;AMA;COIMBRA;COIMBRA;Loja de Cidadão 1G;Coimbra;Loja de Cidadão Coimbra;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;969;0;2;2;1
+20231211122716;AMA;COIMBRA;COIMBRA;Loja de Cidadão 1G;Coimbra;Loja de Cidadão Coimbra;REGISTOS;B;Cartão de Cidadão - Levantamento;--;755;0;1;1;1
+20231211122716;AMA;COIMBRA;COIMBRA;Loja de Cidadão 1G;Coimbra;Loja de Cidadão Coimbra;REGISTOS;C;Cartão de Cidadão - Outros;--;913;0;2;2;1
+20231211122716;AMA;COIMBRA;COIMBRA;Loja de Cidadão 1G;Coimbra;Loja de Cidadão Coimbra;REGISTOS;D;Passaporte - Pedido;--;361;0;2;2;1
+20231211122716;AMA;COIMBRA;COIMBRA;Loja de Cidadão 1G;Coimbra;Loja de Cidadão Coimbra;REGISTOS;E;Passaporte - Levantamento / Inf.;--;388;0;1;1;1
+20231211122716;AMA;COIMBRA;COIMBRA;Loja de Cidadão 1G;Coimbra;Loja de Cidadão Coimbra;REGISTOS;Y;Marcações;--;9964;0;6;6;1
+20231211122716;AMA;FARO;FARO;Loja de Cidadão 1G;Faro;Loja de Cidadão Faro;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;4640;0;9;9;1
+20231211122716;AMA;FARO;FARO;Loja de Cidadão 1G;Faro;Loja de Cidadão Faro;REGISTOS;D;Passaporte - Pedido;--;1710;0;7;7;1
+20231211122716;AMA;FARO;FARO;Loja de Cidadão 1G;Faro;Loja de Cidadão Faro;REGISTOS;R;Registo veículos - Pedido;--;58;0;1;1;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;13211;0;37;37;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;C;Cartão de Cidadão - Outros;--;6922;0;16;16;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;D;Passaporte - Pedido;--;7384;0;15;15;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;F;Registo Civil - Certidões / Inf.;--;2642;0;5;5;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;2464;0;3;3;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;R;Registo veículos - Pedido;--;1345;0;5;5;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;T;Registo Comercial - Certidões / Inf.;--;2439;0;5;5;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 1G;Lisboa;Loja de Cidadão Laranjeiras;REGISTOS;Y;Marcações;--;4509;0;1;1;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;218;0;1;1;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;B;Cartão de Cidadão - Levantamento;--;133;0;3;3;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;C;Cartão de Cidadão - Outros;--;15311;0;20;20;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;D;Passaporte - Pedido;--;2775;0;11;11;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;G;Registo Civil - Nascimento;--;7488;1;5;6;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;10225;0;3;3;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;11653;0;2;2;1
+20231211122716;AMA;LISBOA;ODIVELAS;Loja de Cidadão 1G;Odivelas;Loja de Cidadão Odivelas;REGISTOS;R;Registo veículos - Pedido;--;5077;0;20;20;1
+20231211122716;AMA;PORTO;PORTO;Loja de Cidadão 1G;Porto;Loja de Cidadão Porto;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1320;0;5;5;1
+20231211122716;AMA;PORTO;PORTO;Loja de Cidadão 1G;Porto;Loja de Cidadão Porto;REGISTOS;C;Cartão de Cidadão - Outros;--;220;0;2;2;1
+20231211122716;AMA;PORTO;PORTO;Loja de Cidadão 1G;Porto;Loja de Cidadão Porto;REGISTOS;D;Passaporte - Pedido;--;536;0;2;2;1
+20231211122716;AMA;PORTO;PORTO;Loja de Cidadão 1G;Porto;Loja de Cidadão Porto;REGISTOS;E;Passaporte - Levantamento / Inf.;--;228;0;1;1;1
+20231211122716;AMA;PORTO;PORTO;Loja de Cidadão 1G;Porto;Loja de Cidadão Porto;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;796;0;3;3;1
+20231211122716;AMA;PORTO;PORTO;Loja de Cidadão 1G;Porto;Loja de Cidadão Porto;REGISTOS;R;Registo veículos - Pedido;--;625;0;3;3;1
+20231211122716;AMA;PORTO;PORTO;Loja de Cidadão 1G;Porto;Loja de Cidadão Porto;REGISTOS;Y;Marcações;--;208;0;1;1;1
+20231211122716;AMA;SETÚBAL;SETÚBAL;Loja de Cidadão 1G;Setúbal;Loja de Cidadão Setúbal;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1233;0;2;2;1
+20231211122716;AMA;SETÚBAL;SETÚBAL;Loja de Cidadão 1G;Setúbal;Loja de Cidadão Setúbal;REGISTOS;B;Cartão de Cidadão - Levantamento;--;1793;0;2;2;1
+20231211122716;AMA;SETÚBAL;SETÚBAL;Loja de Cidadão 1G;Setúbal;Loja de Cidadão Setúbal;REGISTOS;C;Cartão de Cidadão - Outros;--;1850;0;3;3;1
+20231211122716;AMA;SETÚBAL;SETÚBAL;Loja de Cidadão 1G;Setúbal;Loja de Cidadão Setúbal;REGISTOS;D;Passaporte - Pedido;--;1242;1;5;6;1
+20231211122716;AMA;SETÚBAL;SETÚBAL;Loja de Cidadão 1G;Setúbal;Loja de Cidadão Setúbal;REGISTOS;E;Passaporte - Levantamento / Inf.;--;1277;0;5;5;1
+20231211122716;AMA;SETÚBAL;SETÚBAL;Loja de Cidadão 1G;Setúbal;Loja de Cidadão Setúbal;REGISTOS;R;Registo veículos - Pedido;--;876;0;2;2;1
+20231211122716;AMA;LEIRIA;ALVAIAZERE;Loja de Cidadão 2G;Alvaiázere;Loja de Cidadão Alvaiázere;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;417;0;1;1;1
+20231211122716;AMA;BRAGA;AMARES;Loja de Cidadão 2G;Amares;Loja de Cidadão  Amares;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;132;0;1;1;1
+20231211122716;AMA;AVEIRO;ANADIA;Loja de Cidadão 2G;ANADIA;Loja de Cidadão Anadia;REGISTOS;N;Registo Predial - Pedido;--;6022;0;3;3;1
+20231211122716;AMA;AVEIRO;ANADIA;Loja de Cidadão 2G;ANADIA;Loja de Cidadão Anadia;REGISTOS;R;Registo veículos - Pedido;--;5360;0;2;2;1
+20231211122716;AMA;LEIRIA;BATALHA;Loja de Cidadão 2G;Batalha;Loja de Cidadão Batalha;REGISTOS;F;Registo Civil - Certidões / Inf.;--;5922;0;6;6;1
+20231211122716;AMA;ÉVORA;BORBA;Loja de Cidadão 2G;Borba;Loja de Cidadão Borba;REGISTOS;R;Registo veículos - Pedido;--;7519;0;1;1;1
+20231211122716;AMA;LISBOA;CACÉM;Loja de Cidadão 2G;Cacém;Loja de Cidadão Cacém;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;5816;0;2;2;1
+20231211122716;AMA;LISBOA;CACÉM;Loja de Cidadão 2G;Cacém;Loja de Cidadão Cacém;REGISTOS;B;Cartão de Cidadão - Levantamento;--;960;0;4;4;1
+20231211122716;AMA;LISBOA;CACÉM;Loja de Cidadão 2G;Cacém;Loja de Cidadão Cacém;REGISTOS;E;Passaporte - Levantamento / Inf.;--;554;0;1;1;1
+20231211122716;AMA;LISBOA;CACÉM;Loja de Cidadão 2G;Cacém;Loja de Cidadão Cacém;REGISTOS;Y;Marcações;--;3952;0;1;1;1
+20231211122716;AMA;COIMBRA;CANTANHEDE;Loja de Cidadão 2G;Cantanhede;Loja de Cidadão Cantanhede;REGISTOS;C;Cartão de Cidadão - Outros;--;155;0;1;1;1
+20231211122716;AMA;COIMBRA;CANTANHEDE;Loja de Cidadão 2G;Cantanhede;Loja de Cidadão Cantanhede;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;6425;0;4;4;1
+20231211122716;AMA;COIMBRA;CANTANHEDE;Loja de Cidadão 2G;Cantanhede;Loja de Cidadão Cantanhede;REGISTOS;N;Registo Predial - Pedido;--;3643;0;3;3;1
+20231211122716;AMA;COIMBRA;CANTANHEDE;Loja de Cidadão 2G;Cantanhede;Loja de Cidadão Cantanhede;REGISTOS;U;Registo Comercial - Pedido;--;6006;0;3;3;1
+20231211122716;AMA;AVEIRO;OVAR;Loja de Cidadão 2G;Esmoriz;Loja de Cidadão Esmoriz;REGISTOS;B;Cartão de Cidadão - Levantamento;--;86;0;2;2;1
+20231211122716;AMA;PORTO;FELGUEIRAS;Loja de Cidadão 2G;Felgueiras;Loja de Cidadão Felgueiras;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;43;0;1;1;1
+20231211122716;AMA;PORTO;FELGUEIRAS;Loja de Cidadão 2G;Felgueiras;Loja de Cidadão Felgueiras;REGISTOS;B;Cartão de Cidadão - Levantamento;--;61;0;1;1;1
+20231211122716;AMA;PORTO;FELGUEIRAS;Loja de Cidadão 2G;Felgueiras;Loja de Cidadão Felgueiras;REGISTOS;F;Registo Civil - Certidões / Inf.;--;319;0;1;1;1
+20231211122716;AMA;PORTO;FELGUEIRAS;Loja de Cidadão 2G;Felgueiras;Loja de Cidadão Felgueiras;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;12;0;3;3;1
+20231211122716;AMA;PORTO;VILA NOVA DE GAIA;Loja de Cidadão 2G;Gaia;Loja de Cidadão Gaia;REGISTOS;B;Cartão de Cidadão - Levantamento;--;388;0;2;2;1
+20231211122716;AMA;PORTO;VILA NOVA DE GAIA;Loja de Cidadão 2G;Gaia;Loja de Cidadão Gaia;REGISTOS;G;Registo Civil - Nascimento;--;3210;0;1;1;1
+20231211122716;AMA;PORTO;VILA NOVA DE GAIA;Loja de Cidadão 2G;Gaia;Loja de Cidadão Gaia;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;346;0;1;1;1
+20231211122716;AMA;PORTO;VILA NOVA DE GAIA;Loja de Cidadão 2G;Gaia;Loja de Cidadão Gaia;REGISTOS;N;Registo Predial - Pedido;--;93;0;1;1;1
+20231211122716;AMA;PORTO;VILA NOVA DE GAIA;Loja de Cidadão 2G;Gaia;Loja de Cidadão Gaia;REGISTOS;R;Registo veículos - Pedido;--;6400;0;9;9;1
+20231211122716;AMA;PORTO;VILA NOVA DE GAIA;Loja de Cidadão 2G;Gaia;Loja de Cidadão Gaia;REGISTOS;U;Registo Comercial - Pedido;--;338;0;1;1;1
+20231211122716;AMA;PORTO;VILA NOVA DE GAIA;Loja de Cidadão 2G;Gaia;Loja de Cidadão Gaia;REGISTOS;Y;Marcações;--;200;0;1;1;1
+20231211122716;AMA;PORTO;GONDOMAR;Loja de Cidadão 2G;Gondomar;Loja de Cidadão Gondomar;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;39;0;1;1;1
+20231211122716;AMA;PORTO;GONDOMAR;Loja de Cidadão 2G;Gondomar;Loja de Cidadão Gondomar;REGISTOS;N;Registo Predial - Pedido;--;3038;0;8;8;1
+20231211122716;AMA;GUARDA;GUARDA;Loja de Cidadão 2G;Guarda;Loja de Cidadão Guarda;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;6238;0;6;6;1
+20231211122716;AMA;GUARDA;GUARDA;Loja de Cidadão 2G;Guarda;Loja de Cidadão Guarda;REGISTOS;N;Registo Predial - Pedido;--;7507;0;5;5;1
+20231211122716;AMA;GUARDA;GUARDA;Loja de Cidadão 2G;Guarda;Loja de Cidadão Guarda;REGISTOS;O;Casa Pronta;--;6125;0;2;2;1
+20231211122716;AMA;GUARDA;GUARDA;Loja de Cidadão 2G;Guarda;Loja de Cidadão Guarda;REGISTOS;R;Registo veículos - Pedido;--;916;0;2;2;1
+20231211122716;AMA;GUARDA;GUARDA;Loja de Cidadão 2G;Guarda;Loja de Cidadão Guarda;REGISTOS;V;Empresa na Hora / Marca / Associação / Cooperativa / Sucursal na Hora;--;96;0;1;1;1
+20231211122716;AMA;GUARDA;GUARDA;Loja de Cidadão 2G;Guarda;Loja de Cidadão Guarda;REGISTOS;Y;Marcações;--;2857;0;1;1;1
+20231211122716;AMA;GUARDA;GUARDA;Loja de Cidadão 2G;Guarda;Loja de Cidadão Guarda;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;4842;0;1;1;1
+20231211122716;AMA;LEIRIA;LEIRIA;Loja de Cidadão 2G;Leiria;Loja de Cidadão Leiria;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;761;0;2;2;1
+20231211122716;AMA;LEIRIA;LEIRIA;Loja de Cidadão 2G;Leiria;Loja de Cidadão Leiria;REGISTOS;B;Cartão de Cidadão - Levantamento;--;1990;0;1;1;1
+20231211122716;AMA;LEIRIA;LEIRIA;Loja de Cidadão 2G;Leiria;Loja de Cidadão Leiria;REGISTOS;D;Passaporte - Pedido;--;1363;0;1;1;1
+20231211122716;AMA;LEIRIA;LEIRIA;Loja de Cidadão 2G;Leiria;Loja de Cidadão Leiria;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1445;0;1;1;1
+20231211122716;AMA;LEIRIA;LEIRIA;Loja de Cidadão 2G;Leiria;Loja de Cidadão Leiria;REGISTOS;R;Registo veículos - Pedido;--;1190;0;1;1;1
+20231211122716;AMA;LEIRIA;LEIRIA;Loja de Cidadão 2G;Leiria;Loja de Cidadão Leiria;REGISTOS;Y;Marcações;--;5846;0;6;6;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Lisboa;Loja de Cidadão Saldanha;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;4943;0;14;14;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Lisboa;Loja de Cidadão Saldanha;REGISTOS;C;Cartão de Cidadão - Outros;--;2062;0;3;3;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Lisboa;Loja de Cidadão Saldanha;REGISTOS;D;Passaporte - Pedido;--;4432;0;22;22;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Lisboa;Loja de Cidadão Saldanha;REGISTOS;F;Registo Civil - Certidões / Inf.;--;3497;0;5;5;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Lisboa;Loja de Cidadão Saldanha;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;1716;0;2;2;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Lisboa;Loja de Cidadão Saldanha;REGISTOS;R;Registo veículos - Pedido;--;1817;0;2;2;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Marvila;Loja de Cidadão Marvila;REGISTOS;D;Passaporte - Pedido;--;70;0;1;1;1
+20231211122716;AMA;LISBOA;LISBOA;Loja de Cidadão 2G;Marvila;Loja de Cidadão Marvila;REGISTOS;Y;Marcações;--;2409;0;1;1;1
+20231211122716;AMA;VILA REAL;MONTALEGRE;Loja de Cidadão 2G;Montalegre;Loja de Cidadão Montalegre;REGISTOS;B;Cartão de Cidadão - Levantamento;--;1391;0;1;1;1
+20231211122716;AMA;PORTO;PENAFIEL;Loja de Cidadão 2G;Penafiel;Loja de Cidadão Penafiel;REGISTOS;B;Cartão de Cidadão - Levantamento;--;32;0;1;1;1
+20231211122716;AMA;VIANA DO CASTELO;PONTE DA BARCA;Loja de Cidadão 2G;Ponte da Barca;Loja de Cidadão Ponte da Barca;REGISTOS;B;Cartão de Cidadão - Levantamento;--;279;0;1;1;1
+20231211122716;AMA;VIANA DO CASTELO;PONTE DA BARCA;Loja de Cidadão 2G;Ponte da Barca;Loja de Cidadão Ponte da Barca;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1481;0;1;1;1
+20231211122716;AMA;VISEU;RESENDE;Loja de Cidadão 2G;Resende;Loja de Cidadão Resende;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;867;0;1;1;1
+20231211122716;AMA;SANTARÉM;RIO MAIOR;Loja de Cidadão 2G;Rio Maior;Loja de Cidadão Rio Maior;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;2049;0;1;1;1
+20231211122716;AMA;SANTARÉM;RIO MAIOR;Loja de Cidadão 2G;Rio Maior;Loja de Cidadão Rio Maior;REGISTOS;C;Cartão de Cidadão - Outros;--;2402;0;1;1;1
+20231211122716;AMA;SANTARÉM;RIO MAIOR;Loja de Cidadão 2G;Rio Maior;Loja de Cidadão Rio Maior;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1289;0;1;1;1
+20231211122716;AMA;SANTARÉM;RIO MAIOR;Loja de Cidadão 2G;Rio Maior;Loja de Cidadão Rio Maior;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;1136;0;1;1;1
+20231211122716;AMA;SANTARÉM;RIO MAIOR;Loja de Cidadão 2G;Rio Maior;Loja de Cidadão Rio Maior;REGISTOS;R;Registo veículos - Pedido;--;1223;0;2;2;1
+20231211122716;AMA;PORTO;SANTO TIRSO;Loja de Cidadão 2G;Santo Tirso;Loja de Cidadão Santo Tirso;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;220;0;1;1;1
+20231211122716;AMA;PORTO;SANTO TIRSO;Loja de Cidadão 2G;Santo Tirso;Loja de Cidadão Santo Tirso;REGISTOS;R;Registo veículos - Pedido;--;1515;0;1;1;1
+20231211122716;AMA;AVEIRO;SÃO JOÃO DA MADEIRA;Loja de Cidadão 2G;São João da Madeira;Loja de Cidadão SJ Madeira;REGISTOS;F;Registo Civil - Certidões / Inf.;--;119;0;1;1;1
+20231211122716;AMA;AVEIRO;SÃO JOÃO DA MADEIRA;Loja de Cidadão 2G;São João da Madeira;Loja de Cidadão SJ Madeira;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;527;0;1;2;1
+20231211122716;AMA;AVEIRO;SÃO JOÃO DA MADEIRA;Loja de Cidadão 2G;São João da Madeira;Loja de Cidadão SJ Madeira;REGISTOS;R;Registo veículos - Pedido;--;481;0;1;1;1
+20231211122716;AMA;VISEU;SATÃO;Loja de Cidadão 2G;Sátão;Loja de Cidadão Sátão;REGISTOS;G;Registo Civil - Nascimento;--;886;0;1;1;1
+20231211122716;AMA;VISEU;SATÃO;Loja de Cidadão 2G;Sátão;Loja de Cidadão Sátão;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;4229;0;2;2;1
+20231211122716;AMA;SETÚBAL;SEIXAL;Loja de Cidadão 2G;Seixal;Loja de Cidadão Seixal;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;4314;0;4;4;1
+20231211122716;AMA;SETÚBAL;SEIXAL;Loja de Cidadão 2G;Seixal;Loja de Cidadão Seixal;REGISTOS;C;Cartão de Cidadão - Outros;--;696;0;1;1;1
+20231211122716;AMA;SETÚBAL;SEIXAL;Loja de Cidadão 2G;Seixal;Loja de Cidadão Seixal;REGISTOS;D;Passaporte - Pedido;--;7205;0;3;3;1
+20231211122716;AMA;SETÚBAL;SEIXAL;Loja de Cidadão 2G;Seixal;Loja de Cidadão Seixal;REGISTOS;E;Passaporte - Levantamento / Inf.;--;27;0;4;4;1
+20231211122716;AMA;SETÚBAL;SEIXAL;Loja de Cidadão 2G;Seixal;Loja de Cidadão Seixal;REGISTOS;N;Registo Predial - Pedido;--;5306;0;1;1;1
+20231211122716;AMA;VISEU;TAROUCA;Loja de Cidadão 2G;Tarouca;Loja de Cidadão Tarouca;REGISTOS;C;Cartão de Cidadão - Outros;--;127;0;1;1;1
+20231211122716;AMA;FARO;TAVIRA;Loja de Cidadão 2G;Tavira;Loja de Cidadão Tavira;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;2149;0;1;1;1
+20231211122716;AMA;FARO;TAVIRA;Loja de Cidadão 2G;Tavira;Loja de Cidadão Tavira;REGISTOS;D;Passaporte - Pedido;--;2307;0;2;2;1
+20231211122716;AMA;FARO;TAVIRA;Loja de Cidadão 2G;Tavira;Loja de Cidadão Tavira;REGISTOS;Y;Marcações;--;4809;0;1;1;1
+20231211122716;AMA;SANTARÉM;TORRES NOVAS;Loja de Cidadão 2G;Torres Novas;Loja de Cidadão Torres Novas;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;309;0;1;1;1
+20231211122716;AMA;LISBOA;TORRES VEDRAS;Loja de Cidadão 2G;Torres Vedras;Loja de Cidadão Torres Vedras;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;4630;1;9;10;1
+20231211122716;AMA;LISBOA;TORRES VEDRAS;Loja de Cidadão 2G;Torres Vedras;Loja de Cidadão Torres Vedras;REGISTOS;C;Cartão de Cidadão - Outros;--;113;0;1;1;1
+20231211122716;AMA;LISBOA;TORRES VEDRAS;Loja de Cidadão 2G;Torres Vedras;Loja de Cidadão Torres Vedras;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1585;0;1;1;1
+20231211122716;AMA;LISBOA;TORRES VEDRAS;Loja de Cidadão 2G;Torres Vedras;Loja de Cidadão Torres Vedras;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;4125;0;1;1;1
+20231211122716;AMA;PORTO;VALONGO;Loja de Cidadão 2G;Valongo - Ermesinde;Loja de Cidadão Valongo - Ermesinde;REGISTOS;B;Cartão de Cidadão - Levantamento;--;547;0;1;1;1
+20231211122716;AMA;SANTARÉM;VILA NOVA DA BARQUINHA;Loja de Cidadão 2G;Vila Nova da Barquinha;Loja de Cidadão VN Barquinha;REGISTOS;D;Passaporte - Pedido;--;1969;0;2;2;1
+20231211122716;AMA;SANTARÉM;VILA NOVA DA BARQUINHA;Loja de Cidadão 2G;Vila Nova da Barquinha;Loja de Cidadão VN Barquinha;REGISTOS;G;Registo Civil - Nascimento;--;2086;0;2;2;1
+20231211122716;AMA;SANTARÉM;VILA NOVA DA BARQUINHA;Loja de Cidadão 2G;Vila Nova da Barquinha;Loja de Cidadão VN Barquinha;REGISTOS;R;Registo veículos - Pedido;--;908;0;2;2;1
+20231211122716;AMA;BRAGA;VILA NOVA DE FAMALICÃO;Loja de Cidadão 2G;Vila Nova de Famalicão;Loja de Cidadão de Vila Nova de Famalicão;REGISTOS;F;Registo Civil - Certidões / Inf.;--;2828;0;1;1;1
+20231211122716;AMA;BRAGA;VILA NOVA DE FAMALICÃO;Loja de Cidadão 2G;Vila Nova de Famalicão;Loja de Cidadão de Vila Nova de Famalicão;REGISTOS;G;Registo Civil - Nascimento;--;818;0;1;1;1
+20231211122716;AMA;VILA REAL;VILA REAL;Loja de Cidadão 2G;Vila Real;Loja de Cidadão Vila Real;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;960;0;2;2;1
+20231211122716;AMA;VILA REAL;VILA REAL;Loja de Cidadão 2G;Vila Real;Loja de Cidadão Vila Real;REGISTOS;C;Cartão de Cidadão - Outros;--;547;0;1;1;1
+20231211122716;AMA;VILA REAL;VILA REAL;Loja de Cidadão 2G;Vila Real;Loja de Cidadão Vila Real;REGISTOS;F;Registo Civil - Certidões / Inf.;--;2257;0;2;2;1
+20231211122716;AMA;VILA REAL;VILA REAL;Loja de Cidadão 2G;Vila Real;Loja de Cidadão Vila Real;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;6459;0;1;1;1
+20231211122716;AMA;VILA REAL;VILA REAL;Loja de Cidadão 2G;Vila Real;Loja de Cidadão Vila Real;REGISTOS;Y;Marcações;--;652;0;2;2;1
+20231211122716;AMA;BRAGANÇA;VIMIOSO;Loja de Cidadão 2G;Vimioso;Loja de Cidadão Vimioso;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;11522;0;1;1;1
+20231211122716;AMA;BRAGANÇA;VIMIOSO;Loja de Cidadão 2G;Vimioso;Loja de Cidadão Vimioso;REGISTOS;C;Cartão de Cidadão - Outros;--;12973;0;1;1;1
+20231211122716;AMA;BRAGANÇA;VIMIOSO;Loja de Cidadão 2G;Vimioso;Loja de Cidadão Vimioso;REGISTOS;G;Registo Civil - Nascimento;--;1058;0;1;1;1
+20231211122716;IRN;PORTALEGRE;PORTALEGRE;Portalegre;Portalegre;ER Portalegre;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1297;0;1;1;1
+20231211122716;IRN;PORTALEGRE;PORTALEGRE;Portalegre;Portalegre;ER Portalegre;REGISTOS;C;Cartão de Cidadão - Outros;--;349;0;1;1;1
+20231211122716;IRN;PORTALEGRE;PORTALEGRE;Portalegre;Portalegre;ER Portalegre;REGISTOS;D;Passaporte - Pedido;--;705;0;2;2;1
+20231211122716;IRN;PORTALEGRE;PORTALEGRE;Portalegre;Portalegre;ER Portalegre;REGISTOS;Y;Marcações;--;3472;0;3;3;1
+20231211122716;IRN;PORTO;MATOSINHOS;Porto;Matosinhos;CRC Matosinhos;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;5206;0;1;1;1
+20231211122716;IRN;PORTO;MATOSINHOS;Porto;Matosinhos;CRC Matosinhos;REGISTOS;B;Cartão de Cidadão - Levantamento;--;4913;0;1;1;1
+20231211122716;IRN;PORTO;MATOSINHOS;Porto;Matosinhos;CRC Matosinhos;REGISTOS;E;Passaporte - Levantamento / Inf.;--;5102;0;1;1;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Aquivo Central Porto;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;71;0;1;1;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;4551;1;6;7;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;B;Cartão de Cidadão - Levantamento;--;1846;0;6;6;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;E;Passaporte - Levantamento / Inf.;--;461;0;3;3;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;F;Registo Civil - Certidões / Inf.;--;2007;0;4;4;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;G;Registo Civil - Nascimento;--;725;0;1;1;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;4121;0;3;3;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;3252;0;3;3;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;779;0;1;1;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;Y;Marcações;--;592;0;1;1;1
+20231211122716;IRN;PORTO;PORTO;Porto;Porto;Registo do Porto Palacete Pestanas;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;1505;0;1;1;1
+20231211122716;IRN;PORTO;POVOA DE VARZIM;Porto;Póvoa de Varzim;ER Póvoa de Varzim;REGISTOS;N;Registo Predial - Pedido;--;801;0;3;3;1
+20231211122716;IRN;PORTO;POVOA DE VARZIM;Porto;Póvoa de Varzim;ER Póvoa de Varzim;REGISTOS;Y;Marcações;--;441;0;2;2;1
+20231211122716;IRN;PORTO;TROFA;Porto;Trofa;CRCPCom Trofa;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;3936;0;2;2;1
+20231211122716;IRN;PORTO;TROFA;Porto;Trofa;CRCPCom Trofa;REGISTOS;N;Registo Predial - Pedido;--;4312;0;2;2;1
+20231211122716;IRN;PORTO;TROFA;Porto;Trofa;CRCPCom Trofa;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;4022;0;5;5;1
+20231211122716;IRN;PORTO;VALONGO;Porto;Valongo;CRCPComAut Valongo;REGISTOS;F;Registo Civil - Certidões / Inf.;--;134;2;1;3;1
+20231211122716;IRN;PORTO;VALONGO;Porto;Valongo;CRCPComAut Valongo;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;3089;0;4;4;1
+20231211122716;IRN;PORTO;VALONGO;Porto;Valongo;CRCPComAut Valongo;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;462;0;1;1;1
+20231211122716;IRN;PORTO;VALONGO;Porto;Valongo;CRCPComAut Valongo;REGISTOS;R;Registo veículos - Pedido;--;1306;0;2;2;1
+20231211122716;IRN;SANTARÉM;BENAVENTE;Santarém;Benavente;CRCPCom Benavente;REGISTOS;E;Passaporte - Levantamento / Inf.;--;795;0;1;1;1
+20231211122716;IRN;SANTARÉM;BENAVENTE;Santarém;Benavente;CRCPCom Benavente;REGISTOS;G;Registo Civil - Nascimento;--;605;0;1;1;1
+20231211122716;IRN;SANTARÉM;BENAVENTE;Santarém;Benavente;CRCPCom Benavente;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;952;0;1;1;1
+20231211122716;IRN;SANTARÉM;CARTAXO;Santarém;Cartaxo;CRCPComAut Cartaxo;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;1268;0;1;1;1
+20231211122716;IRN;SANTARÉM;SANTARÉM;Santarém;Santarém;ER Santarém;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;105;0;1;1;1
+20231211122716;IRN;SANTARÉM;SANTARÉM;Santarém;Santarém;ER Santarém;REGISTOS;C;Cartão de Cidadão - Outros;--;112;0;1;1;1
+20231211122716;IRN;SANTARÉM;SANTARÉM;Santarém;Santarém;ER Santarém;REGISTOS;E;Passaporte - Levantamento / Inf.;--;89;0;1;1;1
+20231211122716;IRN;SANTARÉM;SANTARÉM;Santarém;Santarém;ER Santarém;REGISTOS;G;Registo Civil - Nascimento;--;338;0;1;1;1
+20231211122716;IRN;SANTARÉM;SANTARÉM;Santarém;Santarém;ER Santarém;REGISTOS;Y;Marcações;--;9057;0;1;1;1
+20231211122716;IRN;SANTARÉM;TOMAR;Santarém;Tomar;CRPCom Tomar;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;1807;0;1;1;1
+20231211122716;IRN;SANTARÉM;TOMAR;Santarém;Tomar;CRPCom Tomar;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;423;0;1;1;1
+20231211122716;IRN;SANTARÉM;TOMAR;Santarém;Tomar;CRPCom Tomar;REGISTOS;R;Registo veículos - Pedido;--;1325;0;1;1;1
+20231211122716;IRN;SANTARÉM;TOMAR;Santarém;Tomar;CRPCom Tomar;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;1021;0;1;1;1
+20231211122716;IRN;SETÚBAL;ALCOCHETE;Setúbal;Alcochete;CRCPCom Alcochete;REGISTOS;F;Registo Civil - Certidões / Inf.;--;746;0;1;1;1
+20231211122716;IRN;SETÚBAL;ALMADA;Setúbal;Almada;2ª CRP Almada;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;9169;0;1;1;1
+20231211122716;IRN;SETÚBAL;ALMADA;Setúbal;Almada;2ª CRP Almada;REGISTOS;E;Passaporte - Levantamento / Inf.;--;6174;0;1;1;1
+20231211122716;IRN;SETÚBAL;ALMADA;Setúbal;Almada;CRC Almada;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1563;0;1;1;1
+20231211122716;IRN;SETÚBAL;ALMADA;Setúbal;Almada;CRC Almada;REGISTOS;B;Cartão de Cidadão - Levantamento;--;483;0;1;1;1
+20231211122716;IRN;SETÚBAL;MOITA;Setúbal;Moita;CRCPCom Moita;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;1438;0;3;3;1
+20231211122716;IRN;SETÚBAL;SANTIAGO DO CACEM;Setúbal;Santiago de Cacém;CRCPComAut Santiago de Cacém;REGISTOS;E;Passaporte - Levantamento / Inf.;--;1603;0;1;1;1
+20231211122716;IRN;SETÚBAL;SANTIAGO DO CACEM;Setúbal;Santiago de Cacém;CRCPComAut Santiago de Cacém;REGISTOS;G;Registo Civil - Nascimento;--;1247;0;2;2;1
+20231211122716;IRN;SETÚBAL;SANTIAGO DO CACEM;Setúbal;Santiago de Cacém;CRCPComAut Santiago de Cacém;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;1688;0;1;1;1
+20231211122716;IRN;SETÚBAL;SANTIAGO DO CACEM;Setúbal;Santiago de Cacém;CRCPComAut Santiago de Cacém;REGISTOS;N;Registo Predial - Pedido;--;2053;0;1;1;1
+20231211122716;IRN;SETÚBAL;SANTIAGO DO CACEM;Setúbal;Santiago de Cacém;CRCPComAut Santiago de Cacém;REGISTOS;O;Casa Pronta;--;2153;0;1;1;1
+20231211122716;IRN;SETÚBAL;SANTIAGO DO CACEM;Setúbal;Santiago de Cacém;CRCPComAut Santiago de Cacém;REGISTOS;R;Registo veículos - Pedido;--;330;0;1;1;1
+20231211122716;IRN;SETÚBAL;SANTIAGO DO CACEM;Setúbal;Santiago de Cacém;CRCPComAut Santiago de Cacém;REGISTOS;S;Carta de Condução;--;1471;0;1;1;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRC Seixal;REGISTOS;F;Registo Civil - Certidões / Inf.;--;1904;2;1;3;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRC Seixal;REGISTOS;G;Registo Civil - Nascimento;--;285;0;1;1;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRC Seixal;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;10241;0;6;6;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRPCom Seixal;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;1323;0;3;3;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRPCom Seixal;REGISTOS;N;Registo Predial - Pedido;--;1138;0;1;1;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRPCom Seixal;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;1628;0;1;1;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRPCom Seixal;REGISTOS;R;Registo veículos - Pedido;--;1789;0;4;4;1
+20231211122716;IRN;SETÚBAL;SEIXAL;Setúbal;Seixal;CRPCom Seixal;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;688;0;1;1;1
+20231211122716;IRN;SETÚBAL;SESIMBRA;Setúbal;Sesimbra;CRC Sesimbra;REGISTOS;B;Cartão de Cidadão - Levantamento;--;514;0;2;2;1
+20231211122716;IRN;SETÚBAL;SESIMBRA;Setúbal;Sesimbra;CRC Sesimbra;REGISTOS;C;Cartão de Cidadão - Outros;--;734;0;3;3;1
+20231211122716;IRN;SETÚBAL;SESIMBRA;Setúbal;Sesimbra;CRC Sesimbra;REGISTOS;D;Passaporte - Pedido;--;12186;0;5;5;1
+20231211122716;IRN;SETÚBAL;SESIMBRA;Setúbal;Sesimbra;CRPCom Sesimbra;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;4145;0;1;1;1
+20231211122716;IRN;SETÚBAL;SESIMBRA;Setúbal;Sesimbra;CRPCom Sesimbra;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;4176;0;3;3;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;F;Registo Civil - Certidões / Inf.;--;4494;0;2;2;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;H;Registo Civil - Casamento / Divórcio/Separação / Outros processos especiais;--;4503;0;5;5;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;K;Nacionalidade - Cidadão / Particulares;--;3883;0;5;5;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;N;Registo Predial - Pedido;--;165;0;1;1;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;R;Registo veículos - Pedido;--;1154;0;4;4;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;T;Registo Comercial - Certidões / Inf.;--;1198;0;1;1;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;U;Registo Comercial - Pedido;--;4966;0;3;3;1
+20231211122716;IRN;SETÚBAL;SETÚBAL;Setúbal;Setúbal;BUA Setúbal;REGISTOS;Y;Marcações;--;6311;0;5;5;1
+20231211122716;IRN;SETÚBAL;SINES;Setúbal;Sines;CRCPCom Sines;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1323;0;1;1;1
+20231211122716;IRN;SETÚBAL;SINES;Setúbal;Sines;CRCPCom Sines;REGISTOS;C;Cartão de Cidadão - Outros;--;1159;1;1;2;1
+20231211122716;IRN;SETÚBAL;SINES;Setúbal;Sines;CRCPCom Sines;REGISTOS;D;Passaporte - Pedido;--;1356;0;1;1;1
+20231211122716;IRN;SETÚBAL;SINES;Setúbal;Sines;CRCPCom Sines;REGISTOS;E;Passaporte - Levantamento / Inf.;--;157;0;1;1;1
+20231211122716;IRN;SETÚBAL;SINES;Setúbal;Sines;CRCPCom Sines;REGISTOS;F;Registo Civil - Certidões / Inf.;--;135;0;1;1;1
+20231211122716;IRN;SETÚBAL;SINES;Setúbal;Sines;CRCPCom Sines;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;175;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;MONÇÃO;Viana do Castelo;Monção;CRCPCom Monção;REGISTOS;E;Passaporte - Levantamento / Inf.;--;941;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;MONÇÃO;Viana do Castelo;Monção;CRCPCom Monção;REGISTOS;G;Registo Civil - Nascimento;--;1714;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;MONÇÃO;Viana do Castelo;Monção;CRCPCom Monção;REGISTOS;J;Habilitação / Partilha de Herança / Partilha por divórcio;--;12547;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;MONÇÃO;Viana do Castelo;Monção;CRCPCom Monção;REGISTOS;R;Registo veículos - Pedido;--;5150;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;5277;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;B;Cartão de Cidadão - Levantamento;--;6507;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;C;Cartão de Cidadão - Outros;--;5340;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;D;Passaporte - Pedido;--;3939;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;F;Registo Civil - Certidões / Inf.;--;667;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;4462;0;2;2;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;N;Registo Predial - Pedido;--;4457;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;Q;Registo veículos - Certidões / Inf.;--;6429;0;2;2;1
+20231211122716;IRN;VIANA DO CASTELO;PAREDES DE COURA;Viana do Castelo;Paredes de Coura;CRCPCom Paredes de Coura;REGISTOS;R;Registo veículos - Pedido;--;905;0;1;1;1
+20231211122716;IRN;VIANA DO CASTELO;VIANA DO CASTELO;Viana do Castelo;Viana do Castelo;CRC Viana do Castelo;REGISTOS;B;Cartão de Cidadão - Levantamento;--;78;0;1;1;1
+20231211122716;IRN;VISEU;LAMEGO;Viseu;Lamego;CRC Lamego;REGISTOS;C;Cartão de Cidadão - Outros;--;596;0;1;1;1
+20231211122716;IRN;VISEU;NELAS;Viseu;Nelas;CRCPCom Nelas;REGISTOS;A;Cartão de Cidadão - Pedido/Renovação;--;1286;0;1;1;1
+20231211122716;IRN;VISEU;NELAS;Viseu;Nelas;CRCPCom Nelas;REGISTOS;F;Registo Civil - Certidões / Inf.;--;5400;0;1;1;1
+20231211122716;IRN;VISEU;NELAS;Viseu;Nelas;CRCPCom Nelas;REGISTOS;G;Registo Civil - Nascimento;--;5551;0;1;1;1
+20231211122716;IRN;VISEU;NELAS;Viseu;Nelas;CRCPCom Nelas;REGISTOS;I;Registo Civil - Óbito/Espaço Óbito;--;7222;0;1;1;1
+20231211122716;IRN;VISEU;NELAS;Viseu;Nelas;CRCPCom Nelas;REGISTOS;S;Carta de Condução;--;1247;0;1;1;1
+20231211122716;IRN;VISEU;VISEU;Viseu;Viseu;CRPCom Viseu;REGISTOS;M;Registo Predial - Certidões / Inf. ;--;4411;0;7;7;1
+20231211122716;IRN;VISEU;VISEU;Viseu;Viseu;CRPCom Viseu;REGISTOS;O;Casa Pronta;--;4730;0;1;1;1
+20231211122716;IRN;VISEU;VISEU;Viseu;Viseu;CRPCom Viseu;REGISTOS;Y;Marcações;--;4207;0;1;1;1
+20231211122716;IRN;VISEU;VISEU;Viseu;Viseu;CRPCom Viseu;REGISTOS;Z; Certificados /Traduções / Procurações/ Reconhecimentos / Fotocópias/ Instrumentos/ Outros;--;3385;0;3;3;1
