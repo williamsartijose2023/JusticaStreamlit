@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap");
+
+:root {
+  --dsc-color-bg-primary: #fff;
+  --dsc-color-bg-secondary: #f0ac0f;
+  --dsc-color-bg-tertiary: #f9fafb;
+  --dsc-color-bg-quaternary: #0caf1d;
+
+  --dsc-color-card-bg: #f9fafb;
+  --dsc-color-card-border: #d9d9d9;
+
+  --dsc-color-btn-primary: #3483fa;
+  --dsc-color-btn-inverse: #fff;
+
+  --dsc-color-font-primary: #636363;
+  --dsc-color-font-secondary: #0caf1d;
+  --dsc-color-font-tertiary: #fff;
+  --dsc-color-font-placeholder: #d9d9d9;
+
+  --dsc-color-error: #f33;
+}
+
+html,
+body {
+  background-color: var(--dsc-color-bg-primary);
+}
+
+
+
+.titulo-css {
+    color: #333;
+    font-family: Raleway;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 33px;
+}
+
+.subtitulo-css {
+    color: #333;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 33px;
+  }
+  .dsc-bold-text {
+    color: #333;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 33px;
+  }
+
+  .card-title {
+color: #005799 !important;
+font-feature-settings: 'ss01' on;
+font-family: Raleway;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 109.091% */
+letter-spacing: 0.22px;
+  }
+
+  .card-text  {
+    color: #005799;
+    font-family: Raleway;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px; /* 128.571% */
+      }
+  
+     
+
+      .custom-card {
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: #f8f9fa;
+        flex-shrink: 0;
+        
+      }
+
+      
+      .dsc-divider img {
+  width: 100%;
+  height: 100%;
+  border: 1px dotted rgba(0, 0, 0, 0.1);
+}
